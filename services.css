@@ -1,0 +1,53 @@
+h1{
+text-align: center;
+font-size: 40px;
+color: aqua;
+text-decoration: underline;
+}
+#heading1{
+            color: brown;
+            font-family: sans-serif;
+}
+#paragraph1{
+font-weight: bold;
+}
+.paragraph{
+font-style: italic;
+}
+#membership{
+background-color:crimson;
+margin: 60px;
+padding: 30px;
+border-radius: 20px;
+color: antiquewhite;
+}
+#membership:hover{
+background-color:black ;
+color: gold;
+}
+#vip{
+display: flex;
+margin: 40px;
+gap: 20px;
+}
+#vip img{
+border-radius: 50px;
+}
+#main{
+display: flex;
+
+}
+.service{
+background-color:saddlebrown ;
+margin: 20px;
+border-radius: 30px;
+padding: 20px;
+box-shadow:8px 8px 8px lawngreen ;
+
+}
+.service:hover{
+background-color:black;
+color: goldenrod;
+
+
+}
